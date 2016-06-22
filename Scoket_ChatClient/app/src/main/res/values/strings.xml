@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scoket_ChatClient</string>
+    <string name="client_sent">客户端发送</string>
+    <string name="client_recive">客户端接受</string>
+    <string name="init_client">初始化客户端</string>
+    <string name="server_sent">服务器发送</string>
+    <string name="server_recive">服务器接受</string>
+    <string name="start">开启服务器</string>
+</resources>
